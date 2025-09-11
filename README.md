@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
-### Name : MUKESH R
-### Register No : 212223240100
+### Name : MONISHKUMAR.V
+### Register No : 212223040116
 
 ## Aim :
  
